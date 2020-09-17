@@ -5,7 +5,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:local="clr-namespace:BootNext"
         mc:Ignorable="d"
-        Title="SettingsWindow" Height="537.337" Width="352.018" WindowStartupLocation="CenterScreen"
+        Title="BootNext Settings" Height="537.337" Width="352.018" WindowStartupLocation="CenterScreen"
         Closing="SettingsWindow_OnClosing">
     
     <Window.Resources>
